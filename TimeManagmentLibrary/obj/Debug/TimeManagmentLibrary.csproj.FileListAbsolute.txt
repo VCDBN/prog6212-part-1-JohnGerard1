@@ -1,0 +1,6 @@
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\TimeManagementLibrary\TimeManagmentLibrary\bin\Debug\TimeManagmentLibrary.dll
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\TimeManagementLibrary\TimeManagmentLibrary\bin\Debug\TimeManagmentLibrary.pdb
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\TimeManagementLibrary\TimeManagmentLibrary\obj\Debug\TimeManagmentLibrary.csproj.AssemblyReference.cache
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\TimeManagementLibrary\TimeManagmentLibrary\obj\Debug\TimeManagmentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\TimeManagementLibrary\TimeManagmentLibrary\obj\Debug\TimeManagmentLibrary.dll
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\TimeManagementLibrary\TimeManagmentLibrary\obj\Debug\TimeManagmentLibrary.pdb
