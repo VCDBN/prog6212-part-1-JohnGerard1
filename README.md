@@ -10,19 +10,7 @@ Getting Started 🚀
 Prerequisites
 •	Ensure that .NET SDK 5.0 or later is installed on your system.
 Installation & Setup 🛠️
-Using Command Line
-1.	Navigate to the project directory:
-shCopy code
-cd <path-to-project-directory> 
-2.	Restore packages:
-shCopy code
-dotnet restore 
-3.	Build the project:
-shCopy code
-dotnet build 
-4.	Run the application:
-shCopy code
-dotnet run 
+
 Using Visual Studio
 1.	Open Solution File: Double-click on .sln file to open the project in Visual Studio.
 2.	Build Solution: Use Ctrl + Shift + B or navigate to Build -> Build Solution.
