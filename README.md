@@ -28,6 +28,7 @@ Screenshots 🖼️
 ![Screenshot 2023-09-22 184156](https://github.com/VCDBN/prog6212-part-1-JohnGerard1/assets/124500120/ec932c0d-fc69-4620-ae5c-8e3efc43feb2)
 ![Screenshot 2023-09-22 184207](https://github.com/VCDBN/prog6212-part-1-JohnGerard1/assets/124500120/5ba31773-634f-4d1b-a5be-987fb27b5f7a)
 ![Screenshot 2023-09-22 184224](https://github.com/VCDBN/prog6212-part-1-JohnGerard1/assets/124500120/c75a26c1-62e9-43a0-8a50-92d336abef8d)
+![Screenshot 2023-09-22 184046](https://github.com/VCDBN/prog6212-part-1-JohnGerard1/assets/124500120/96362757-e5a3-48d8-8a8b-87fb0fce3e03)
 
 License 📝
 This project is licensed under the MIT License - see the LICENSE.md file for details.
