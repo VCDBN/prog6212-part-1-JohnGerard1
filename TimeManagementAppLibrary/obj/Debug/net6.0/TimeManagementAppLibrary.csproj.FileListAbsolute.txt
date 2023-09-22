@@ -1,0 +1,12 @@
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\bin\Debug\net6.0\TimeManagementAppLibrary.deps.json
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\bin\Debug\net6.0\TimeManagementAppLibrary.dll
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\bin\Debug\net6.0\TimeManagementAppLibrary.pdb
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\TimeManagementAppLibrary.csproj.AssemblyReference.cache
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\TimeManagementAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\TimeManagementAppLibrary.AssemblyInfoInputs.cache
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\TimeManagementAppLibrary.AssemblyInfo.cs
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\TimeManagementAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\TimeManagementAppLibrary.dll
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\refint\TimeManagementAppLibrary.dll
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\TimeManagementAppLibrary.pdb
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementAppLibrary\obj\Debug\net6.0\ref\TimeManagementAppLibrary.dll

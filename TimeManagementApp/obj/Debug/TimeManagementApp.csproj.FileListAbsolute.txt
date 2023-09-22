@@ -1,0 +1,6 @@
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementApp\obj\Debug\TimeManagementApp.csproj.AssemblyReference.cache
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementApp\obj\Debug\TimeManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementApp\obj\Debug\MainWindow.g.cs
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementApp\obj\Debug\App.g.cs
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementApp\obj\Debug\TimeManagementApp_MarkupCompile.cache
+C:\Users\ggove\OneDrive\Documents\1 - VC_2nd_Year_SEM 2_Computer Science\3 - Programming 2B - PROG6212\Prog_Part1\TimeManagementApp\obj\Debug\TimeManagementApp_MarkupCompile.lref
